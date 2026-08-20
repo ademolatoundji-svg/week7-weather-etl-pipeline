@@ -1,0 +1,4 @@
+city,temperature_celsius,humidity_percent,weather_condition,wind_speed_ms,date_time
+Lagos,30.16,64,Broken Clouds,3.6,2026-08-20 13:24:07
+Cotonou,29.99,74,Broken Clouds,4.63,2026-08-20 13:31:13
+Paris,24.52,46,Overcast Clouds,7.2,2026-08-20 13:30:45
