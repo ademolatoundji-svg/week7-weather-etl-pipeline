@@ -79,4 +79,4 @@ The ETL pipeline successfully extracted, transformed, and loaded real-time weath
 - These results confirm the expected climatic contrast between tropical West African cities and a temperate European city
 
 ## Author
-Mtk — AnalystLab Africa Data Analytics Internship, Batch C
+Mustakeem LATOUNDJI— AnalystLab Africa Data Analytics Internship, Batch C
